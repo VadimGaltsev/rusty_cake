@@ -1,0 +1,8 @@
+[package]
+name = "rusty_cake"
+version = "0.1.0"
+authors = ["vaiklol <samokatanet@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+builder = { path = "../builder" }
